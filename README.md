@@ -1,6 +1,8 @@
 Upcoming Hackathons
 =====================
 
+[![Join the chat at https://gitter.im/mindworker/Hackathon-Calendar](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mindworker/Hackathon-Calendar?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repo tracks upcoming hackathons. To add a hackathon to this list, please submit an issue or fork this repo and submit a pull request. **Keep hackathons organized by start date and then alphabetically.**
 
 Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Conferences) repo.
